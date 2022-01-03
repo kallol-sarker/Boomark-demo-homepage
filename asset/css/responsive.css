@@ -1,0 +1,208 @@
+@media only screen and (min-width: 1366px) and (max-width: 1920px) {
+    
+}
+
+@media only screen and (min-width: 1201px) and (max-width: 1440px) {
+      .single-testimonial {
+            width: 402px;
+      }
+
+      .single-testimonial .testimonial-info {
+            width: 402px;
+      }
+
+      .single-testimonial .testimonial-info h1 {
+            font-size: 21px;
+      }
+
+      .single-testimonial .testimonial-info .testimonial-content p {
+            height: 103px;
+            overflow: hidden;
+      }
+
+      .review-writer {
+            width: 100%;
+      }
+
+      .single-testimonial .testimonial-info .review-writer h2 {
+            font-size: 11px;
+            width: 100%;
+      }
+  
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1160px) {
+      .single-testimonial {
+            width: 480px;
+      }
+
+      .footer-form .form-group .btn {
+            width: 36%;
+      }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+      .header-top-right {
+            position: absolute;
+    top: 41px;
+    right: 50px;
+      }
+
+      .search-bar {
+            margin-top: 24px;
+      }
+
+      ul.menu a {
+            font-size: 14px;
+      }
+
+      ul.menu {
+            justify-content: space-between;
+      }
+
+      .banner-right {
+            height: 100%;
+      }
+
+      .banner-right img {
+            height: 184px;
+      }
+
+      .category-inner {
+            overflow-x: scroll;
+            
+      }
+
+      .category-inner a {
+            padding: 8px;
+      }
+
+      .single-testimonial {
+            width: 95%;
+      }
+
+      .single-testimonial .testimonial-info {
+            width: 100%;
+    padding: 20px;
+      }
+
+      .single-testimonial .testimonial-info .testimonial-content p {
+            font-size: 12px;
+      }
+
+      .single-testimonial .testimonial-info h1 {
+            font-size: 21px;
+      }
+
+      .single-testimonial .testimonial-info .review-writer h2 {
+            font-size: 11px;
+      }
+
+      .ratings {
+            font-size: 10px;
+      }
+
+      .card-img {
+            width: 23%;
+    margin-top: 60px;
+      }
+
+      .single-blog {
+            margin-bottom: 34px;
+        }
+
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+      .header-top-right {
+            position: absolute;
+            top: 24px;
+            left: 0;
+            right: 0;
+        }
+
+        .header-top {
+            position: relative;
+        }
+
+        ul.menu {
+            justify-content: space-between;
+            padding-left: 0;
+        }
+
+        ul.menu a {
+            font-size: 11px;
+        }
+
+        .search-bar {
+            margin-top: 24px;
+      }
+
+
+      .banner-right img {
+            height: auto;
+      }
+
+      .banner-right {
+            width: 100%;
+            margin-top: 20px;
+        }
+
+        .custom-card .category-inner p {
+            font-size: 10px;
+        }
+
+        .category-inner a {
+            padding: 0 14px;
+        }
+
+        .category-inner svg {
+            height: 42px;
+        }
+
+        .category-inner {
+            overflow-x: scroll;
+        }
+
+        .products-slide-inner h1 {
+            font-size: 22px;
+        }
+
+        .single-product h1 {
+            font-size: 16px;
+        }
+
+        .single-product p {
+            font-size: 13px;
+        }
+
+        .single-blog {
+            margin-bottom: 23px;
+        }
+
+        section.second-ads {
+            margin-top: 35px;
+        }
+  
+}
+
+@media only screen and (max-width: 768px) {
+
+}
+
+@media only screen and (min-width: 480px) and (max-width: 576px) {
+
+}
+
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+
+}
+
+/* 
+@media only screen and (min-width: 375px) and (max-width: 399px){
+
+}
+@media only screen and (min-width: 320px) and (max-width: 374px){
+
+} */
